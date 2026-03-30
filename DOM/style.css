@@ -1,0 +1,18 @@
+#heading {
+    color: blue;
+    text-decoration: underline dashed;
+    background-color: yellow;
+}
+.paragraph {
+    color: red;
+    text-decoration: underline dotted;
+    background-color: lightgray;
+}
+button{
+    color: white;
+    text-decoration: none;
+    background-color: green;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
